@@ -1,9 +1,9 @@
 pandoc: 3.1.11
 pkgdown: 2.0.7.9000
-pkgdown_sha: 676cf1dce39e4dc5aa1bcb671b1e14e992589a0a
+pkgdown_sha: 9b928b2bab23a8f450787d260c77eae848db1561
 articles:
   rpecanapi: rpecanapi.html
-last_built: 2024-03-25T19:36Z
+last_built: 2024-04-08T07:10Z
 urls:
   reference: https://pecanproject.github.io/rpecanapi/reference
   article: https://pecanproject.github.io/rpecanapi/articles
